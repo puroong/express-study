@@ -1,0 +1,22 @@
+{
+  "name": "express-study",
+  "version": "1.0.0",
+  "description": "nodejs, express study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puroong/express-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puroong/express-study/issues"
+  },
+  "homepage": "https://github.com/puroong/express-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
