@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/puroong/express-study#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql2": "^2.1.0",
     "sequelize": "^6.3.1",
     "sqlite3": "^5.0.0"
